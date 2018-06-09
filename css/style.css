@@ -15,10 +15,23 @@ h1 {
 ul {
   list-style-type: none;
 }
+li {
+  margin-top: 15px;
+}
 a {
   font-size: 18px;
   color: white;
 }
-li {
-  margin-top: 15px;
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.panel {
+  color: white;
+  background-image: url("../resources/images/the-flatiron-building.png");
 }
