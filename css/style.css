@@ -14,6 +14,8 @@ h1 {
 }
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 li {
   margin-top: 15px;
@@ -34,4 +36,13 @@ p {
 .panel {
   color: white;
   background-image: url("../resources/images/the-flatiron-building.png");
+}
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+.footer li {
+  font-size: 11px;
+  color:white;
+  display: inline;
 }
